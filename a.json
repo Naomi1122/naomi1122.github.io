@@ -1,0 +1,5638 @@
+[
+    {
+        "Date": "2022-10-08",
+        "ID": "12857712",
+        "Latitude": "41.878227412",
+        "Longitude": "-87.626807395",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12859452",
+        "Latitude": "41.909254096",
+        "Longitude": "-87.68842333",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12859426",
+        "Latitude": "41.879672418",
+        "Longitude": "-87.703978301",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12859022",
+        "Latitude": "41.871644264",
+        "Longitude": "-87.724107724",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12861206",
+        "Latitude": "41.870016119",
+        "Longitude": "-87.726028701",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857976",
+        "Latitude": "41.952702554",
+        "Longitude": "-87.65263097",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857661",
+        "Latitude": "41.932012618",
+        "Longitude": "-87.640940116",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857665",
+        "Latitude": "41.906017184",
+        "Longitude": "-87.674151001",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12858674",
+        "Latitude": "41.875411327",
+        "Longitude": "-87.714209424",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853052",
+        "Latitude": "41.761484638",
+        "Longitude": "-87.55806373",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857705",
+        "Latitude": "41.763256685",
+        "Longitude": "-87.607950652",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852580",
+        "Latitude": "41.999636321",
+        "Longitude": "-87.684329205",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12859357",
+        "Latitude": "41.993125032",
+        "Longitude": "-87.655481712",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12860297",
+        "Latitude": "41.898373543",
+        "Longitude": "-87.675900893",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12861020",
+        "Latitude": "41.898516209",
+        "Longitude": "-87.637246929",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12860167",
+        "Latitude": "41.705591281",
+        "Longitude": "-87.53165779",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12858121",
+        "Latitude": "41.739663451",
+        "Longitude": "-87.584352136",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12860993",
+        "Latitude": "41.871799655",
+        "Longitude": "-87.631610894",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854276",
+        "Latitude": "41.854326565",
+        "Longitude": "-87.730596576",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853273",
+        "Latitude": "41.968289813",
+        "Longitude": "-87.723452492",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853603",
+        "Latitude": "41.931525928",
+        "Longitude": "-87.747234917",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853381",
+        "Latitude": "41.871057139",
+        "Longitude": "-87.696811458",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854599",
+        "Latitude": "41.744325625",
+        "Longitude": "-87.65964409",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852790",
+        "Latitude": "41.882470918",
+        "Longitude": "-87.627847625",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853866",
+        "Latitude": "41.94329648",
+        "Longitude": "-87.672068964",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853255",
+        "Latitude": "41.953783081",
+        "Longitude": "-87.915105451",
+        "Primary_Type": "CRIMINAL SEXUAL ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853014",
+        "Latitude": "41.932111703",
+        "Longitude": "-87.801021709",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856784",
+        "Latitude": "41.943338611",
+        "Longitude": "-87.64332075",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852916",
+        "Latitude": "41.870924455",
+        "Longitude": "-87.656800047",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853594",
+        "Latitude": "41.702505096",
+        "Longitude": "-87.631693249",
+        "Primary_Type": "CRIMINAL SEXUAL ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852664",
+        "Latitude": "41.782362747",
+        "Longitude": "-87.718570207",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853755",
+        "Latitude": "41.836831835",
+        "Longitude": "-87.65111171",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853184",
+        "Latitude": "41.741738607",
+        "Longitude": "-87.562430839",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852700",
+        "Latitude": "41.83795988",
+        "Longitude": "-87.714618245",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853213",
+        "Latitude": "42.000136642",
+        "Longitude": "-87.699713322",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854010",
+        "Latitude": "41.798014715",
+        "Longitude": "-87.594425874",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853545",
+        "Latitude": "41.837860295",
+        "Longitude": "-87.659838279",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853489",
+        "Latitude": "41.688252176",
+        "Longitude": "-87.613242154",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857374",
+        "Latitude": "41.949925598",
+        "Longitude": "-87.67621326",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852806",
+        "Latitude": "41.915019425",
+        "Longitude": "-87.633988741",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12859151",
+        "Latitude": "41.858595213",
+        "Longitude": "-87.674381283",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852948",
+        "Latitude": "41.819489699",
+        "Longitude": "-87.698301918",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854951",
+        "Latitude": "41.863717908",
+        "Longitude": "-87.703081168",
+        "Primary_Type": "OFFENSE INVOLVING CHILDREN"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853293",
+        "Latitude": "41.880861658",
+        "Longitude": "-87.747742198",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853102",
+        "Latitude": "41.755498249",
+        "Longitude": "-87.64538045",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852736",
+        "Latitude": "41.736819634",
+        "Longitude": "-87.55695717",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854076",
+        "Latitude": "41.703773605",
+        "Longitude": "-87.525645351",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853085",
+        "Latitude": "41.754714426",
+        "Longitude": "-87.617696604",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852954",
+        "Latitude": "41.843659979",
+        "Longitude": "-87.711109853",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852333",
+        "Latitude": "41.866977138",
+        "Longitude": "-87.622544036",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853033",
+        "Latitude": "41.81150781",
+        "Longitude": "-87.645606798",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853690",
+        "Latitude": "41.699725952",
+        "Longitude": "-87.60622631",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853429",
+        "Latitude": "41.750935666",
+        "Longitude": "-87.563794018",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853395",
+        "Latitude": "41.893541578",
+        "Longitude": "-87.629701805",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852983",
+        "Latitude": "41.763561729",
+        "Longitude": "-87.632784192",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852561",
+        "Latitude": "41.764817814",
+        "Longitude": "-87.595822246",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857003",
+        "Latitude": "41.841762174",
+        "Longitude": "-87.732997184",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852438",
+        "Latitude": "41.686967145",
+        "Longitude": "-87.627732401",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852860",
+        "Latitude": "41.759742877",
+        "Longitude": "-87.579221967",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852757",
+        "Latitude": "41.745239296",
+        "Longitude": "-87.602587289",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852477",
+        "Latitude": "41.821255232",
+        "Longitude": "-87.619920499",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853164",
+        "Latitude": "41.897956775",
+        "Longitude": "-87.723718119",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853445",
+        "Latitude": "41.719309693",
+        "Longitude": "-87.627393362",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852392",
+        "Latitude": "41.750585257",
+        "Longitude": "-87.578401993",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854495",
+        "Latitude": "41.771267671",
+        "Longitude": "-87.731550731",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853250",
+        "Latitude": "41.688850148",
+        "Longitude": "-87.631830662",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853657",
+        "Latitude": "41.953605409",
+        "Longitude": "-87.653095607",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12859124",
+        "Latitude": "41.978826879",
+        "Longitude": "-87.69901989",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853507",
+        "Latitude": "41.758101926",
+        "Longitude": "-87.563928316",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852715",
+        "Latitude": "41.867308877",
+        "Longitude": "-87.698368584",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853177",
+        "Latitude": "41.775149092",
+        "Longitude": "-87.668978118",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853530",
+        "Latitude": "41.978108446",
+        "Longitude": "-87.904122758",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854412",
+        "Latitude": "41.879097968",
+        "Longitude": "-87.632283818",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853224",
+        "Latitude": "41.792136503",
+        "Longitude": "-87.670922296",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856528",
+        "Latitude": "41.753156284",
+        "Longitude": "-87.561411005",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853967",
+        "Latitude": "41.763327102",
+        "Longitude": "-87.584703781",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852430",
+        "Latitude": "41.818495784",
+        "Longitude": "-87.613090912",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853174",
+        "Latitude": "42.009454189",
+        "Longitude": "-87.674070253",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852831",
+        "Latitude": "41.693486383",
+        "Longitude": "-87.623955765",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852825",
+        "Latitude": "41.898341487",
+        "Longitude": "-87.731097472",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852873",
+        "Latitude": "41.999700424",
+        "Longitude": "-87.680631198",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852514",
+        "Latitude": "41.867251542",
+        "Longitude": "-87.639594427",
+        "Primary_Type": "INTERFERENCE WITH PUBLIC OFFICER"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853839",
+        "Latitude": "41.735216731",
+        "Longitude": "-87.652107544",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854026",
+        "Latitude": "41.965387049",
+        "Longitude": "-87.658338686",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854443",
+        "Latitude": "41.803181616",
+        "Longitude": "-87.585432024",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852503",
+        "Latitude": "41.884097317",
+        "Longitude": "-87.675301789",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856248",
+        "Latitude": "41.979006297",
+        "Longitude": "-87.906463155",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853080",
+        "Latitude": "41.885503844",
+        "Longitude": "-87.627935448",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852397",
+        "Latitude": "41.789137111",
+        "Longitude": "-87.68879262",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853063",
+        "Latitude": "41.869367371",
+        "Longitude": "-87.659882148",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853482",
+        "Latitude": "41.833859461",
+        "Longitude": "-87.684685681",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857716",
+        "Latitude": "41.878223415",
+        "Longitude": "-87.62704979",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853347",
+        "Latitude": "41.731753187",
+        "Longitude": "-87.637416364",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852621",
+        "Latitude": "41.878922312",
+        "Longitude": "-87.721582014",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857678",
+        "Latitude": "41.946727243",
+        "Longitude": "-87.688560416",
+        "Primary_Type": "CRIMINAL SEXUAL ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853152",
+        "Latitude": "41.885446133",
+        "Longitude": "-87.701945888",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853333",
+        "Latitude": "41.720532063",
+        "Longitude": "-87.536497717",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853028",
+        "Latitude": "41.889915225",
+        "Longitude": "-87.719424123",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853107",
+        "Latitude": "41.752158814",
+        "Longitude": "-87.619795595",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852480",
+        "Latitude": "41.826368014",
+        "Longitude": "-87.610298621",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852764",
+        "Latitude": "41.748285332",
+        "Longitude": "-87.552099086",
+        "Primary_Type": "ARSON"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853054",
+        "Latitude": "41.802320044",
+        "Longitude": "-87.600783777",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856169",
+        "Latitude": "41.824497868",
+        "Longitude": "-87.61009219",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853300",
+        "Latitude": "41.966087732",
+        "Longitude": "-87.648759997",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854836",
+        "Latitude": "41.777622832",
+        "Longitude": "-87.613148814",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852842",
+        "Latitude": "41.870355187",
+        "Longitude": "-87.630550934",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853321",
+        "Latitude": "41.77122378",
+        "Longitude": "-87.687091385",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852817",
+        "Latitude": "41.952342577",
+        "Longitude": "-87.757885483",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852666",
+        "Latitude": "41.864325673",
+        "Longitude": "-87.650962679",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852937",
+        "Latitude": "41.984284214",
+        "Longitude": "-87.670688696",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853050",
+        "Latitude": "42.00195571",
+        "Longitude": "-87.670498009",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12859167",
+        "Latitude": "41.726036222",
+        "Longitude": "-87.660359045",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853359",
+        "Latitude": "41.849225547",
+        "Longitude": "-87.691203123",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852567",
+        "Latitude": "41.763822602",
+        "Longitude": "-87.693008392",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853259",
+        "Latitude": "41.893240632",
+        "Longitude": "-87.630300108",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852961",
+        "Latitude": "41.937851004",
+        "Longitude": "-87.648040319",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853235",
+        "Latitude": "41.926421786",
+        "Longitude": "-87.763615913",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853469",
+        "Latitude": "41.782319404",
+        "Longitude": "-87.649709954",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852530",
+        "Latitude": "41.969481057",
+        "Longitude": "-87.659681778",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854259",
+        "Latitude": "41.945039683",
+        "Longitude": "-87.654774622",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "27100",
+        "Latitude": "41.875886829",
+        "Longitude": "-87.723065017",
+        "Primary_Type": "HOMICIDE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852784",
+        "Latitude": "41.750259049",
+        "Longitude": "-87.671012192",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852591",
+        "Latitude": "41.754205111",
+        "Longitude": "-87.649421988",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853942",
+        "Latitude": "41.884666913",
+        "Longitude": "-87.765018951",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852814",
+        "Latitude": "41.918266033",
+        "Longitude": "-87.70523429",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853332",
+        "Latitude": "41.87949161",
+        "Longitude": "-87.745999461",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853203",
+        "Latitude": "41.896843033",
+        "Longitude": "-87.697976936",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853581",
+        "Latitude": "41.917867579",
+        "Longitude": "-87.671905339",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852597",
+        "Latitude": "41.930637505",
+        "Longitude": "-87.737772591",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854014",
+        "Latitude": "41.836812626",
+        "Longitude": "-87.651111914",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852970",
+        "Latitude": "41.871799513",
+        "Longitude": "-87.632936347",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853784",
+        "Latitude": "41.899398437",
+        "Longitude": "-87.766769029",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852369",
+        "Latitude": "41.806086504",
+        "Longitude": "-87.664902703",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852999",
+        "Latitude": "41.997285939",
+        "Longitude": "-87.717455138",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853169",
+        "Latitude": "41.837732058",
+        "Longitude": "-87.71460943",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853192",
+        "Latitude": "41.88007433",
+        "Longitude": "-87.642602726",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853572",
+        "Latitude": "41.859811169",
+        "Longitude": "-87.72620603",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852641",
+        "Latitude": "41.948800859",
+        "Longitude": "-87.763049087",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852739",
+        "Latitude": "41.769845631",
+        "Longitude": "-87.572299952",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855645",
+        "Latitude": "41.926442519",
+        "Longitude": "-87.792881481",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852518",
+        "Latitude": "41.830954079",
+        "Longitude": "-87.630703226",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856544",
+        "Latitude": "41.94670237",
+        "Longitude": "-87.656117076",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855614",
+        "Latitude": "41.91065261",
+        "Longitude": "-87.66614577",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857162",
+        "Latitude": "41.939573601",
+        "Longitude": "-87.641960977",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852990",
+        "Latitude": "41.896184054",
+        "Longitude": "-87.717556965",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853712",
+        "Latitude": "41.922049336",
+        "Longitude": "-87.772914558",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855258",
+        "Latitude": "41.946905975",
+        "Longitude": "-87.67508268",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852607",
+        "Latitude": "41.949917631",
+        "Longitude": "-87.683492013",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12858841",
+        "Latitude": "41.99282666",
+        "Longitude": "-87.736159506",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853584",
+        "Latitude": "41.758032284",
+        "Longitude": "-87.610245211",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852460",
+        "Latitude": "41.892628411",
+        "Longitude": "-87.63115524",
+        "Primary_Type": "CRIMINAL TRESPASS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853809",
+        "Latitude": "41.779655089",
+        "Longitude": "-87.651160797",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852513",
+        "Latitude": "41.934468048",
+        "Longitude": "-87.761445762",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852981",
+        "Latitude": "41.775474089",
+        "Longitude": "-87.649533357",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853005",
+        "Latitude": "41.742710224",
+        "Longitude": "-87.634088181",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855543",
+        "Latitude": "41.909005481",
+        "Longitude": "-87.694513234",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852778",
+        "Latitude": "41.890014944",
+        "Longitude": "-87.631448294",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852872",
+        "Latitude": "41.880356802",
+        "Longitude": "-87.655466735",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852657",
+        "Latitude": "41.909462982",
+        "Longitude": "-87.758770392",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853163",
+        "Latitude": "41.893350518",
+        "Longitude": "-87.649405054",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853503",
+        "Latitude": "41.782202207",
+        "Longitude": "-87.607781157",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853812",
+        "Latitude": "41.887902159",
+        "Longitude": "-87.636903101",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852725",
+        "Latitude": "41.945444625",
+        "Longitude": "-87.651329744",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852925",
+        "Latitude": "41.732794335",
+        "Longitude": "-87.662981316",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852745",
+        "Latitude": "41.867428687",
+        "Longitude": "-87.626342565",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854729",
+        "Latitude": "41.802685798",
+        "Longitude": "-87.664809681",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853134",
+        "Latitude": "41.97433147",
+        "Longitude": "-87.73314024",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852457",
+        "Latitude": "41.862944405",
+        "Longitude": "-87.707163698",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856827",
+        "Latitude": "41.945863902",
+        "Longitude": "-87.767912706",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853403",
+        "Latitude": "41.868219921",
+        "Longitude": "-87.664046556",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852628",
+        "Latitude": "41.909942193",
+        "Longitude": "-87.720874458",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855109",
+        "Latitude": "41.885935298",
+        "Longitude": "-87.649818339",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853096",
+        "Latitude": "41.744434863",
+        "Longitude": "-87.65721715",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853039",
+        "Latitude": "41.935103753",
+        "Longitude": "-87.78948961",
+        "Primary_Type": "CRIMINAL TRESPASS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852907",
+        "Latitude": "41.796540431",
+        "Longitude": "-87.734281226",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853126",
+        "Latitude": "41.837207926",
+        "Longitude": "-87.706012841",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854787",
+        "Latitude": "41.933980989",
+        "Longitude": "-87.688674112",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853622",
+        "Latitude": "41.906017184",
+        "Longitude": "-87.674151001",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855861",
+        "Latitude": "41.918853444",
+        "Longitude": "-87.687452198",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853190",
+        "Latitude": "41.808500903",
+        "Longitude": "-87.616562762",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853241",
+        "Latitude": "41.74866653",
+        "Longitude": "-87.621318426",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854006",
+        "Latitude": "41.899293285",
+        "Longitude": "-87.694944304",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853887",
+        "Latitude": "41.868420382",
+        "Longitude": "-87.687067956",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852649",
+        "Latitude": "41.821457797",
+        "Longitude": "-87.617192381",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855023",
+        "Latitude": "41.881951231",
+        "Longitude": "-87.633060512",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853563",
+        "Latitude": "41.928258322",
+        "Longitude": "-87.640451538",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855102",
+        "Latitude": "41.927215763",
+        "Longitude": "-87.704378476",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852777",
+        "Latitude": "41.978108446",
+        "Longitude": "-87.904122758",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854791",
+        "Latitude": "41.906232078",
+        "Longitude": "-87.670008656",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852865",
+        "Latitude": "41.81769067",
+        "Longitude": "-87.623059961",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853427",
+        "Latitude": "41.754418814",
+        "Longitude": "-87.635218174",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853553",
+        "Latitude": "41.715490776",
+        "Longitude": "-87.5376881",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853304",
+        "Latitude": "41.92667059",
+        "Longitude": "-87.774597581",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856124",
+        "Latitude": "41.747447379",
+        "Longitude": "-87.562523783",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853870",
+        "Latitude": "41.980778822",
+        "Longitude": "-87.80543826",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852618",
+        "Latitude": "41.954726275",
+        "Longitude": "-87.683630661",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853065",
+        "Latitude": "41.735944679",
+        "Longitude": "-87.652689734",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853348",
+        "Latitude": "41.958909459",
+        "Longitude": "-87.656259911",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853295",
+        "Latitude": "41.872906974",
+        "Longitude": "-87.758238727",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855367",
+        "Latitude": "41.973172961",
+        "Longitude": "-87.867848461",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853514",
+        "Latitude": "41.986989467",
+        "Longitude": "-87.840745861",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853168",
+        "Latitude": "41.883051362",
+        "Longitude": "-87.682455068",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857996",
+        "Latitude": "41.815975231",
+        "Longitude": "-87.623016552",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854406",
+        "Latitude": "41.793754256",
+        "Longitude": "-87.657960575",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853386",
+        "Latitude": "41.945300333",
+        "Longitude": "-87.727369538",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854740",
+        "Latitude": "41.930122797",
+        "Longitude": "-87.746534819",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852550",
+        "Latitude": "41.794812924",
+        "Longitude": "-87.70726622",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853223",
+        "Latitude": "41.760689593",
+        "Longitude": "-87.576707506",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853036",
+        "Latitude": "41.912659131",
+        "Longitude": "-87.766321115",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853693",
+        "Latitude": "41.954996732",
+        "Longitude": "-87.786625722",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852402",
+        "Latitude": "41.765800136",
+        "Longitude": "-87.684495611",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853369",
+        "Latitude": "41.881832768",
+        "Longitude": "-87.743917919",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853049",
+        "Latitude": "41.896364554",
+        "Longitude": "-87.72000514",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853253",
+        "Latitude": "41.916292407",
+        "Longitude": "-87.697163126",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854833",
+        "Latitude": "41.863457443",
+        "Longitude": "-87.624066159",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854207",
+        "Latitude": "41.934923",
+        "Longitude": "-87.766862679",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12858128",
+        "Latitude": "41.904373304",
+        "Longitude": "-87.770585885",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853099",
+        "Latitude": "41.891694878",
+        "Longitude": "-87.626155832",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853848",
+        "Latitude": "41.726560961",
+        "Longitude": "-87.608129133",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852922",
+        "Latitude": "41.778340981",
+        "Longitude": "-87.703122242",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852655",
+        "Latitude": "41.753583795",
+        "Longitude": "-87.563366582",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852979",
+        "Latitude": "41.932142953",
+        "Longitude": "-87.766277214",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852987",
+        "Latitude": "41.727454619",
+        "Longitude": "-87.59248745",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852356",
+        "Latitude": "41.848254902",
+        "Longitude": "-87.680638782",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853079",
+        "Latitude": "41.701996623",
+        "Longitude": "-87.534079031",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852708",
+        "Latitude": "41.975700253",
+        "Longitude": "-87.712900687",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852737",
+        "Latitude": "41.747106499",
+        "Longitude": "-87.568596259",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853182",
+        "Latitude": "41.744129011",
+        "Longitude": "-87.544256527",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853151",
+        "Latitude": "41.664573705",
+        "Longitude": "-87.639058866",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852832",
+        "Latitude": "41.791675475",
+        "Longitude": "-87.705122195",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856533",
+        "Latitude": "41.946241881",
+        "Longitude": "-87.655743334",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852726",
+        "Latitude": "41.791975485",
+        "Longitude": "-87.64631068",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853527",
+        "Latitude": "41.820858637",
+        "Longitude": "-87.70070607",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853210",
+        "Latitude": "41.800227229",
+        "Longitude": "-87.596659649",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853106",
+        "Latitude": "41.8924816",
+        "Longitude": "-87.627351831",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853959",
+        "Latitude": "41.778791518",
+        "Longitude": "-87.671484941",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852933",
+        "Latitude": "41.8926701",
+        "Longitude": "-87.628106353",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854053",
+        "Latitude": "41.74506594",
+        "Longitude": "-87.582929866",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856224",
+        "Latitude": "41.912130752",
+        "Longitude": "-87.687571413",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853615",
+        "Latitude": "41.721325872",
+        "Longitude": "-87.620580034",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852947",
+        "Latitude": "41.795180785",
+        "Longitude": "-87.653687935",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854614",
+        "Latitude": "41.765592011",
+        "Longitude": "-87.621098327",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853631",
+        "Latitude": "41.997617948",
+        "Longitude": "-87.696328022",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853481",
+        "Latitude": "41.778647421",
+        "Longitude": "-87.638709742",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853238",
+        "Latitude": "41.750307898",
+        "Longitude": "-87.621362588",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852963",
+        "Latitude": "41.798487758",
+        "Longitude": "-87.674432635",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852632",
+        "Latitude": "41.751822096",
+        "Longitude": "-87.646500811",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853239",
+        "Latitude": "41.978839194",
+        "Longitude": "-87.65788403",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852692",
+        "Latitude": "41.999679671",
+        "Longitude": "-87.681808677",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853175",
+        "Latitude": "41.877365852",
+        "Longitude": "-87.701724332",
+        "Primary_Type": "SEX OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853591",
+        "Latitude": "41.902677049",
+        "Longitude": "-87.6414298",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853131",
+        "Latitude": "41.736458248",
+        "Longitude": "-87.585638764",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852474",
+        "Latitude": "41.682581566",
+        "Longitude": "-87.617504356",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852390",
+        "Latitude": "41.735140021",
+        "Longitude": "-87.705109198",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852791",
+        "Latitude": "41.898926857",
+        "Longitude": "-87.731782529",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852882",
+        "Latitude": "41.899970515",
+        "Longitude": "-87.62644287",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852515",
+        "Latitude": "41.992243144",
+        "Longitude": "-87.682333304",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852502",
+        "Latitude": "41.901130843",
+        "Longitude": "-87.768043044",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852827",
+        "Latitude": "41.862830724",
+        "Longitude": "-87.717095148",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853053",
+        "Latitude": "41.797218365",
+        "Longitude": "-87.664668469",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853492",
+        "Latitude": "41.796303071",
+        "Longitude": "-87.589021605",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853449",
+        "Latitude": "41.746894642",
+        "Longitude": "-87.614855532",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853249",
+        "Latitude": "41.881183664",
+        "Longitude": "-87.685081252",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854869",
+        "Latitude": "41.78603009",
+        "Longitude": "-87.688706406",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852606",
+        "Latitude": "41.931169052",
+        "Longitude": "-87.706177151",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12858308",
+        "Latitude": "41.750820141",
+        "Longitude": "-87.588319597",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852663",
+        "Latitude": "41.75269944",
+        "Longitude": "-87.707360454",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853008",
+        "Latitude": "41.808500903",
+        "Longitude": "-87.616562762",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852956",
+        "Latitude": "41.882470918",
+        "Longitude": "-87.627847625",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12858042",
+        "Latitude": "41.880751096",
+        "Longitude": "-87.723855981",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853654",
+        "Latitude": "41.993015414",
+        "Longitude": "-87.656902805",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853829",
+        "Latitude": "41.981362528",
+        "Longitude": "-87.692106006",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852849",
+        "Latitude": "41.97584897",
+        "Longitude": "-87.748012884",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852481",
+        "Latitude": "41.990111292",
+        "Longitude": "-87.730648877",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852894",
+        "Latitude": "41.943844128",
+        "Longitude": "-87.649380278",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853830",
+        "Latitude": "41.750547603",
+        "Longitude": "-87.589458802",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854445",
+        "Latitude": "41.822073733",
+        "Longitude": "-87.603434976",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853628",
+        "Latitude": "41.77122378",
+        "Longitude": "-87.687091385",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852936",
+        "Latitude": "41.932041507",
+        "Longitude": "-87.773565789",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852650",
+        "Latitude": "41.774551175",
+        "Longitude": "-87.698151497",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853247",
+        "Latitude": "41.703457561",
+        "Longitude": "-87.607422031",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854586",
+        "Latitude": "41.979141081",
+        "Longitude": "-87.656490641",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853767",
+        "Latitude": "41.890988065",
+        "Longitude": "-87.621021833",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853127",
+        "Latitude": "41.743308974",
+        "Longitude": "-87.584518635",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852458",
+        "Latitude": "41.904265132",
+        "Longitude": "-87.634495504",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853098",
+        "Latitude": "41.996126503",
+        "Longitude": "-87.761754899",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852423",
+        "Latitude": "41.751722452",
+        "Longitude": "-87.656997753",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853021",
+        "Latitude": "41.715285614",
+        "Longitude": "-87.568914995",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852782",
+        "Latitude": "41.729170867",
+        "Longitude": "-87.551235346",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856906",
+        "Latitude": "41.659157901",
+        "Longitude": "-87.642502084",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853199",
+        "Latitude": "41.886755667",
+        "Longitude": "-87.765095923",
+        "Primary_Type": "CRIMINAL TRESPASS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853583",
+        "Latitude": "41.773591445",
+        "Longitude": "-87.661618184",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852596",
+        "Latitude": "41.872206452",
+        "Longitude": "-87.730274418",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853929",
+        "Latitude": "41.920309287",
+        "Longitude": "-87.67561331",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854016",
+        "Latitude": "41.91016666",
+        "Longitude": "-87.626212823",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852381",
+        "Latitude": "41.856071543",
+        "Longitude": "-87.717593185",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852524",
+        "Latitude": "41.938882125",
+        "Longitude": "-87.742742299",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852823",
+        "Latitude": "41.757230688",
+        "Longitude": "-87.624738576",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853272",
+        "Latitude": "41.655411665",
+        "Longitude": "-87.605125836",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853113",
+        "Latitude": "41.895996468",
+        "Longitude": "-87.625487641",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853461",
+        "Latitude": "41.854917247",
+        "Longitude": "-87.656337419",
+        "Primary_Type": "CRIMINAL TRESPASS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854290",
+        "Latitude": "41.983649153",
+        "Longitude": "-87.658712242",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854732",
+        "Latitude": "41.783101175",
+        "Longitude": "-87.613267173",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853278",
+        "Latitude": "41.827834171",
+        "Longitude": "-87.666668841",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855098",
+        "Latitude": "41.994547729",
+        "Longitude": "-87.660819069",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853632",
+        "Latitude": "41.931714118",
+        "Longitude": "-87.645151274",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852465",
+        "Latitude": "41.903931334",
+        "Longitude": "-87.629268148",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853000",
+        "Latitude": "41.886006666",
+        "Longitude": "-87.64982125",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853517",
+        "Latitude": "41.729228313",
+        "Longitude": "-87.63288258",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852962",
+        "Latitude": "41.831050399",
+        "Longitude": "-87.622717815",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853468",
+        "Latitude": "41.943338611",
+        "Longitude": "-87.64332075",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852631",
+        "Latitude": "41.751375347",
+        "Longitude": "-87.667105094",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853237",
+        "Latitude": "41.968409424",
+        "Longitude": "-87.71248973",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852749",
+        "Latitude": "41.749942423",
+        "Longitude": "-87.630645542",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853313",
+        "Latitude": "41.885810971",
+        "Longitude": "-87.679845348",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852839",
+        "Latitude": "41.886039903",
+        "Longitude": "-87.624521539",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852670",
+        "Latitude": "41.731318749",
+        "Longitude": "-87.661718061",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853995",
+        "Latitude": "41.886018055",
+        "Longitude": "-87.633937881",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853900",
+        "Latitude": "41.949354074",
+        "Longitude": "-87.673693674",
+        "Primary_Type": "CRIMINAL TRESPASS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852576",
+        "Latitude": "41.796233901",
+        "Longitude": "-87.718338645",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852928",
+        "Latitude": "41.870563252",
+        "Longitude": "-87.727782195",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853069",
+        "Latitude": "41.777415172",
+        "Longitude": "-87.685188784",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852769",
+        "Latitude": "41.925145559",
+        "Longitude": "-87.66862953",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853088",
+        "Latitude": "41.981845169",
+        "Longitude": "-87.657135064",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855226",
+        "Latitude": "41.894997048",
+        "Longitude": "-87.621851448",
+        "Primary_Type": "OFFENSE INVOLVING CHILDREN"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853463",
+        "Latitude": "41.976290414",
+        "Longitude": "-87.905227221",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853120",
+        "Latitude": "41.893951553",
+        "Longitude": "-87.763529932",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853399",
+        "Latitude": "41.774803407",
+        "Longitude": "-87.671371968",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853334",
+        "Latitude": "41.756636397",
+        "Longitude": "-87.562688715",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852451",
+        "Latitude": "41.748933105",
+        "Longitude": "-87.635695377",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852807",
+        "Latitude": "41.89403137",
+        "Longitude": "-87.748833968",
+        "Primary_Type": "INTERFERENCE WITH PUBLIC OFFICER"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853027",
+        "Latitude": "41.892631953",
+        "Longitude": "-87.713789724",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852758",
+        "Latitude": "41.883579906",
+        "Longitude": "-87.709452068",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852429",
+        "Latitude": "41.767591513",
+        "Longitude": "-87.661464502",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853191",
+        "Latitude": "41.797695285",
+        "Longitude": "-87.606297172",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853267",
+        "Latitude": "41.710700117",
+        "Longitude": "-87.59840057",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853040",
+        "Latitude": "41.865620656",
+        "Longitude": "-87.725148813",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853569",
+        "Latitude": "41.926240593",
+        "Longitude": "-87.769717599",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855882",
+        "Latitude": "41.733777783",
+        "Longitude": "-87.631884244",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853305",
+        "Latitude": "41.938504791",
+        "Longitude": "-87.806764728",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852815",
+        "Latitude": "41.729935352",
+        "Longitude": "-87.607083714",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852740",
+        "Latitude": "41.952737843",
+        "Longitude": "-87.650255733",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853356",
+        "Latitude": "41.817156358",
+        "Longitude": "-87.631228252",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852416",
+        "Latitude": "41.655003274",
+        "Longitude": "-87.613923661",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852372",
+        "Latitude": "41.665090333",
+        "Longitude": "-87.62567293",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852527",
+        "Latitude": "41.842110378",
+        "Longitude": "-87.712291901",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852488",
+        "Latitude": "41.91028837",
+        "Longitude": "-87.690326981",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854260",
+        "Latitude": "41.946048865",
+        "Longitude": "-87.655587315",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852684",
+        "Latitude": "41.983668588",
+        "Longitude": "-87.657351164",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852496",
+        "Latitude": "41.720323639",
+        "Longitude": "-87.561445102",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853260",
+        "Latitude": "41.85488228",
+        "Longitude": "-87.65878978",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852972",
+        "Latitude": "41.809160011",
+        "Longitude": "-87.599256982",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852993",
+        "Latitude": "41.891678767",
+        "Longitude": "-87.627551654",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853401",
+        "Latitude": "41.885803107",
+        "Longitude": "-87.680392619",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853716",
+        "Latitude": "41.940669913",
+        "Longitude": "-87.745669933",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852905",
+        "Latitude": "41.721889135",
+        "Longitude": "-87.57898707",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853072",
+        "Latitude": "41.895198482",
+        "Longitude": "-87.664499546",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854475",
+        "Latitude": "41.776451724",
+        "Longitude": "-87.699415905",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853524",
+        "Latitude": "41.947316205",
+        "Longitude": "-87.649949697",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852935",
+        "Latitude": "41.996798873",
+        "Longitude": "-87.67422296",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852471",
+        "Latitude": "41.892628411",
+        "Longitude": "-87.63115524",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852434",
+        "Latitude": "41.8546683",
+        "Longitude": "-87.707773003",
+        "Primary_Type": "ARSON"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852804",
+        "Latitude": "41.73887479",
+        "Longitude": "-87.649778865",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852738",
+        "Latitude": "41.754772559",
+        "Longitude": "-87.565078555",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852413",
+        "Latitude": "41.890057206",
+        "Longitude": "-87.628491342",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853051",
+        "Latitude": "41.777309867",
+        "Longitude": "-87.640802922",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853390",
+        "Latitude": "41.795671974",
+        "Longitude": "-87.762600661",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852610",
+        "Latitude": "41.989669087",
+        "Longitude": "-87.777901946",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852786",
+        "Latitude": "41.938797346",
+        "Longitude": "-87.723377074",
+        "Primary_Type": "CRIMINAL TRESPASS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855783",
+        "Latitude": "41.830697249",
+        "Longitude": "-87.614476891",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852508",
+        "Latitude": "41.736259984",
+        "Longitude": "-87.628068782",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853329",
+        "Latitude": "41.733776757",
+        "Longitude": "-87.613525258",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852854",
+        "Latitude": "41.715319391",
+        "Longitude": "-87.566570476",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853376",
+        "Latitude": "41.763328054",
+        "Longitude": "-87.581907057",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852520",
+        "Latitude": "41.765270737",
+        "Longitude": "-87.57935151",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853083",
+        "Latitude": "41.764604106",
+        "Longitude": "-87.635866529",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853056",
+        "Latitude": "41.749139398",
+        "Longitude": "-87.623673212",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853522",
+        "Latitude": "41.875653356",
+        "Longitude": "-87.763068283",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852959",
+        "Latitude": "41.707418751",
+        "Longitude": "-87.559647519",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854257",
+        "Latitude": "41.736580297",
+        "Longitude": "-87.559718964",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853159",
+        "Latitude": "41.850906376",
+        "Longitude": "-87.636809043",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853378",
+        "Latitude": "41.875090251",
+        "Longitude": "-87.62762037",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853744",
+        "Latitude": "41.897267498",
+        "Longitude": "-87.632720574",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853394",
+        "Latitude": "41.893541578",
+        "Longitude": "-87.629701805",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852625",
+        "Latitude": "41.860019878",
+        "Longitude": "-87.729878673",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853404",
+        "Latitude": "41.886801163",
+        "Longitude": "-87.64591996",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855461",
+        "Latitude": "41.945442383",
+        "Longitude": "-87.651414312",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852511",
+        "Latitude": "41.753561435",
+        "Longitude": "-87.551925162",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853230",
+        "Latitude": "41.964858499",
+        "Longitude": "-87.689094638",
+        "Primary_Type": "CRIMINAL TRESPASS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852805",
+        "Latitude": "41.850628019",
+        "Longitude": "-87.732305005",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852871",
+        "Latitude": "41.822004972",
+        "Longitude": "-87.68823197",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853006",
+        "Latitude": "41.894137119",
+        "Longitude": "-87.715053346",
+        "Primary_Type": "STALKING"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852432",
+        "Latitude": "41.846342367",
+        "Longitude": "-87.704785863",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852436",
+        "Latitude": "41.897102538",
+        "Longitude": "-87.731373574",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852761",
+        "Latitude": "41.774384425",
+        "Longitude": "-87.637619266",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853030",
+        "Latitude": "41.89336404",
+        "Longitude": "-87.748200976",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853586",
+        "Latitude": "41.761152087",
+        "Longitude": "-87.634562414",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854388",
+        "Latitude": "41.881915753",
+        "Longitude": "-87.736605806",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853287",
+        "Latitude": "41.789605374",
+        "Longitude": "-87.721221871",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854054",
+        "Latitude": "41.743662642",
+        "Longitude": "-87.561246242",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852829",
+        "Latitude": "41.883007148",
+        "Longitude": "-87.685312534",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852824",
+        "Latitude": "41.737844804",
+        "Longitude": "-87.584058167",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853265",
+        "Latitude": "41.945660895",
+        "Longitude": "-87.786624622",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853371",
+        "Latitude": "41.922908048",
+        "Longitude": "-87.775685005",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852850",
+        "Latitude": "41.898767916",
+        "Longitude": "-87.624116333",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853308",
+        "Latitude": "41.976423772",
+        "Longitude": "-87.653147038",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852675",
+        "Latitude": "41.989604602",
+        "Longitude": "-87.690857247",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852586",
+        "Latitude": "41.991262667",
+        "Longitude": "-87.660305558",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853991",
+        "Latitude": "41.959538133",
+        "Longitude": "-87.685309809",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857424",
+        "Latitude": "41.976784523",
+        "Longitude": "-87.690022579",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853849",
+        "Latitude": "41.764033799",
+        "Longitude": "-87.582397325",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853038",
+        "Latitude": "41.940026985",
+        "Longitude": "-87.645256701",
+        "Primary_Type": "INTIMIDATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852415",
+        "Latitude": "41.937213396",
+        "Longitude": "-87.768882242",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852469",
+        "Latitude": "41.729545831",
+        "Longitude": "-87.629603962",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853431",
+        "Latitude": "41.758357301",
+        "Longitude": "-87.562723103",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853726",
+        "Latitude": "41.910239494",
+        "Longitude": "-87.694846269",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852679",
+        "Latitude": "41.74738495",
+        "Longitude": "-87.578333218",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853263",
+        "Latitude": "41.852979389",
+        "Longitude": "-87.683828168",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852942",
+        "Latitude": "41.744436506",
+        "Longitude": "-87.658430032",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854476",
+        "Latitude": "41.915798196",
+        "Longitude": "-87.726524412",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853240",
+        "Latitude": "41.721631958",
+        "Longitude": "-87.630620733",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854492",
+        "Latitude": "41.850825176",
+        "Longitude": "-87.701545044",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852785",
+        "Latitude": "41.877565688",
+        "Longitude": "-87.684893829",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854771",
+        "Latitude": "41.697399035",
+        "Longitude": "-87.611056635",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853082",
+        "Latitude": "41.756330319",
+        "Longitude": "-87.552716204",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852394",
+        "Latitude": "41.843477705",
+        "Longitude": "-87.715981708",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852454",
+        "Latitude": "41.781414696",
+        "Longitude": "-87.604328907",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852427",
+        "Latitude": "41.91077574",
+        "Longitude": "-87.694554365",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853453",
+        "Latitude": "41.753946001",
+        "Longitude": "-87.60893507",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852763",
+        "Latitude": "41.695026437",
+        "Longitude": "-87.676196362",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853197",
+        "Latitude": "41.861682108",
+        "Longitude": "-87.709191415",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853023",
+        "Latitude": "41.758346414",
+        "Longitude": "-87.561510075",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853091",
+        "Latitude": "41.983117874",
+        "Longitude": "-87.655172255",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853256",
+        "Latitude": "41.903831995",
+        "Longitude": "-87.687048925",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854798",
+        "Latitude": "41.947172465",
+        "Longitude": "-87.657655995",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12858305",
+        "Latitude": "41.916438903",
+        "Longitude": "-87.711887769",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853170",
+        "Latitude": "41.684114564",
+        "Longitude": "-87.625303429",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852648",
+        "Latitude": "41.818162837",
+        "Longitude": "-87.613824683",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853884",
+        "Latitude": "41.735511961",
+        "Longitude": "-87.555130012",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854072",
+        "Latitude": "41.865220185",
+        "Longitude": "-87.732484083",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853068",
+        "Latitude": "41.767992845",
+        "Longitude": "-87.575562313",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853814",
+        "Latitude": "41.986202516",
+        "Longitude": "-87.673089047",
+        "Primary_Type": "CRIMINAL TRESPASS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853499",
+        "Latitude": "41.919611831",
+        "Longitude": "-87.675539636",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853842",
+        "Latitude": "41.874095762",
+        "Longitude": "-87.673124235",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853186",
+        "Latitude": "41.684114564",
+        "Longitude": "-87.625303429",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852975",
+        "Latitude": "41.869647515",
+        "Longitude": "-87.627474635",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856444",
+        "Latitude": "41.790842096",
+        "Longitude": "-87.634933115",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853556",
+        "Latitude": "41.819536065",
+        "Longitude": "-87.62148774",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853901",
+        "Latitude": "42.021138012",
+        "Longitude": "-87.668679532",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852651",
+        "Latitude": "41.8120621",
+        "Longitude": "-87.685243119",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852721",
+        "Latitude": "41.764771519",
+        "Longitude": "-87.635868382",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852856",
+        "Latitude": "41.880681774",
+        "Longitude": "-87.729434603",
+        "Primary_Type": "LIQUOR LAW VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852542",
+        "Latitude": "41.781899869",
+        "Longitude": "-87.591380753",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853179",
+        "Latitude": "41.649499011",
+        "Longitude": "-87.537454205",
+        "Primary_Type": "INTIMIDATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852989",
+        "Latitude": "41.769513828",
+        "Longitude": "-87.687046229",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852951",
+        "Latitude": "41.987375781",
+        "Longitude": "-87.770749279",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852702",
+        "Latitude": "41.826675946",
+        "Longitude": "-87.632529487",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853032",
+        "Latitude": "41.772596957",
+        "Longitude": "-87.698101125",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853596",
+        "Latitude": "41.83255188",
+        "Longitude": "-87.704685961",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854012",
+        "Latitude": "41.912130752",
+        "Longitude": "-87.687571413",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856189",
+        "Latitude": "41.986685342",
+        "Longitude": "-87.710377449",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852525",
+        "Latitude": "41.746013822",
+        "Longitude": "-87.686464796",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853598",
+        "Latitude": "41.834282407",
+        "Longitude": "-87.658543773",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852724",
+        "Latitude": "41.977122256",
+        "Longitude": "-87.691037892",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853251",
+        "Latitude": "41.872676421",
+        "Longitude": "-87.714415729",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853675",
+        "Latitude": "41.743125083",
+        "Longitude": "-87.605007694",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852388",
+        "Latitude": "41.856220811",
+        "Longitude": "-87.712695002",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852818",
+        "Latitude": "41.897401921",
+        "Longitude": "-87.664939363",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854839",
+        "Latitude": "42.005884116",
+        "Longitude": "-87.666016298",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853487",
+        "Latitude": "41.92507859",
+        "Longitude": "-87.673671871",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857007",
+        "Latitude": "41.911138218",
+        "Longitude": "-87.689682872",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853752",
+        "Latitude": "41.907715563",
+        "Longitude": "-87.706943118",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852734",
+        "Latitude": "41.759059416",
+        "Longitude": "-87.561025059",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856655",
+        "Latitude": "41.694080673",
+        "Longitude": "-87.650945376",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853289",
+        "Latitude": "41.749635589",
+        "Longitude": "-87.717805151",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855278",
+        "Latitude": "41.940084272",
+        "Longitude": "-87.637912379",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852622",
+        "Latitude": "41.904867331",
+        "Longitude": "-87.764472487",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852924",
+        "Latitude": "41.928867803",
+        "Longitude": "-87.709411546",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853992",
+        "Latitude": "41.935962465",
+        "Longitude": "-87.722841767",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854607",
+        "Latitude": "41.892505345",
+        "Longitude": "-87.626304822",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853018",
+        "Latitude": "41.877621465",
+        "Longitude": "-87.773765554",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855884",
+        "Latitude": "41.760996881",
+        "Longitude": "-87.644306436",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853533",
+        "Latitude": "41.751444788",
+        "Longitude": "-87.589851565",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853225",
+        "Latitude": "41.838388942",
+        "Longitude": "-87.620122887",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852780",
+        "Latitude": "41.90351448",
+        "Longitude": "-87.667498444",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856850",
+        "Latitude": "41.872949622",
+        "Longitude": "-87.689240029",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853299",
+        "Latitude": "41.662960707",
+        "Longitude": "-87.617692438",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853123",
+        "Latitude": "41.98359618",
+        "Longitude": "-87.661846485",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854435",
+        "Latitude": "41.879097968",
+        "Longitude": "-87.632283818",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853799",
+        "Latitude": "41.800721652",
+        "Longitude": "-87.651399515",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854040",
+        "Latitude": "41.761661446",
+        "Longitude": "-87.558237537",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853853",
+        "Latitude": "41.889453169",
+        "Longitude": "-87.627994833",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852950",
+        "Latitude": "41.818113352",
+        "Longitude": "-87.703018596",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853067",
+        "Latitude": "41.868165405",
+        "Longitude": "-87.62743954",
+        "Primary_Type": "INTERFERENCE WITH PUBLIC OFFICER"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853144",
+        "Latitude": "41.903289993",
+        "Longitude": "-87.670913383",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854521",
+        "Latitude": "41.942931809",
+        "Longitude": "-87.644582223",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853084",
+        "Latitude": "41.876514638",
+        "Longitude": "-87.696169804",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853341",
+        "Latitude": "42.002040505",
+        "Longitude": "-87.68147187",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853484",
+        "Latitude": "41.893818858",
+        "Longitude": "-87.77337444",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854003",
+        "Latitude": "41.899410159",
+        "Longitude": "-87.624131266",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853618",
+        "Latitude": "41.972111061",
+        "Longitude": "-87.667861958",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855107",
+        "Latitude": "41.854232827",
+        "Longitude": "-87.662228624",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855117",
+        "Latitude": "41.914955268",
+        "Longitude": "-87.64838451",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853310",
+        "Latitude": "41.931155393",
+        "Longitude": "-87.690312223",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852845",
+        "Latitude": "41.769656534",
+        "Longitude": "-87.715989852",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853157",
+        "Latitude": "41.81586428",
+        "Longitude": "-87.665831867",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852658",
+        "Latitude": "41.818162837",
+        "Longitude": "-87.613824683",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853638",
+        "Latitude": "41.881786879",
+        "Longitude": "-87.646744867",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857952",
+        "Latitude": "41.954058258",
+        "Longitude": "-87.685365323",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853362",
+        "Latitude": "41.903533056",
+        "Longitude": "-87.729428701",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855095",
+        "Latitude": "41.893842714",
+        "Longitude": "-87.62422959",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852747",
+        "Latitude": "41.733087643",
+        "Longitude": "-87.551330717",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852899",
+        "Latitude": "41.698970916",
+        "Longitude": "-87.623287641",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853709",
+        "Latitude": "41.884920527",
+        "Longitude": "-87.771946473",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854645",
+        "Latitude": "41.989498995",
+        "Longitude": "-87.779047401",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852811",
+        "Latitude": "41.955417213",
+        "Longitude": "-87.77196792",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853109",
+        "Latitude": "41.729470824",
+        "Longitude": "-87.653150071",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853215",
+        "Latitude": "41.868541914",
+        "Longitude": "-87.639235361",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852484",
+        "Latitude": "41.867636169",
+        "Longitude": "-87.704485536",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853274",
+        "Latitude": "41.89634807",
+        "Longitude": "-87.720001625",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853951",
+        "Latitude": "41.877563794",
+        "Longitude": "-87.685044398",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857303",
+        "Latitude": "41.704957075",
+        "Longitude": "-87.613707641",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852376",
+        "Latitude": "41.84912495",
+        "Longitude": "-87.680659301",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852499",
+        "Latitude": "41.876581037",
+        "Longitude": "-87.745137513",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852886",
+        "Latitude": "41.880186421",
+        "Longitude": "-87.768532463",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852368",
+        "Latitude": "41.766164531",
+        "Longitude": "-87.672355183",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852662",
+        "Latitude": "41.843879386",
+        "Longitude": "-87.620432585",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853688",
+        "Latitude": "41.77074535",
+        "Longitude": "-87.591113399",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855097",
+        "Latitude": "41.890051295",
+        "Longitude": "-87.628869691",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853252",
+        "Latitude": "41.771868676",
+        "Longitude": "-87.644578684",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852837",
+        "Latitude": "41.780126165",
+        "Longitude": "-87.683665601",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854280",
+        "Latitude": "41.926884246",
+        "Longitude": "-87.720719787",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852389",
+        "Latitude": "41.849197371",
+        "Longitude": "-87.693530391",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852483",
+        "Latitude": "41.990111292",
+        "Longitude": "-87.730648877",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853277",
+        "Latitude": "41.752188169",
+        "Longitude": "-87.605227749",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853020",
+        "Latitude": "41.968208915",
+        "Longitude": "-87.653363136",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856903",
+        "Latitude": "41.702452892",
+        "Longitude": "-87.636644788",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852420",
+        "Latitude": "41.772343238",
+        "Longitude": "-87.610594066",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852754",
+        "Latitude": "41.888867359",
+        "Longitude": "-87.714902172",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852452",
+        "Latitude": "41.895003278",
+        "Longitude": "-87.62152816",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853413",
+        "Latitude": "41.9645702",
+        "Longitude": "-87.766037558",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853637",
+        "Latitude": "41.788514323",
+        "Longitude": "-87.617445482",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854256",
+        "Latitude": "41.746666565",
+        "Longitude": "-87.619651204",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854562",
+        "Latitude": "41.92341527",
+        "Longitude": "-87.663661094",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852479",
+        "Latitude": "41.714355294",
+        "Longitude": "-87.613972742",
+        "Primary_Type": "CRIMINAL SEXUAL ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855118",
+        "Latitude": "41.883475491",
+        "Longitude": "-87.627876969",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853188",
+        "Latitude": "41.797305669",
+        "Longitude": "-87.62253329",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852612",
+        "Latitude": "41.702900296",
+        "Longitude": "-87.665313327",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852473",
+        "Latitude": "42.013927223",
+        "Longitude": "-87.665056437",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853457",
+        "Latitude": "41.90834717",
+        "Longitude": "-87.668462171",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853266",
+        "Latitude": "41.984109031",
+        "Longitude": "-87.660855375",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853368",
+        "Latitude": "41.774264976",
+        "Longitude": "-87.738502877",
+        "Primary_Type": "CRIMINAL TRESPASS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852408",
+        "Latitude": "41.74258524",
+        "Longitude": "-87.665671642",
+        "Primary_Type": "CRIMINAL SEXUAL ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852487",
+        "Latitude": "41.910287877",
+        "Longitude": "-87.690238814",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852848",
+        "Latitude": "41.779190197",
+        "Longitude": "-87.682666808",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856215",
+        "Latitude": "41.906925452",
+        "Longitude": "-87.722780519",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854048",
+        "Latitude": "41.782434533",
+        "Longitude": "-87.714052373",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852781",
+        "Latitude": "41.94167314",
+        "Longitude": "-87.739577558",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853494",
+        "Latitude": "41.872375703",
+        "Longitude": "-87.696060374",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852998",
+        "Latitude": "41.947104052",
+        "Longitude": "-87.661898744",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852869",
+        "Latitude": "41.864073444",
+        "Longitude": "-87.625164373",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853216",
+        "Latitude": "41.810788941",
+        "Longitude": "-87.613819175",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854321",
+        "Latitude": "41.917422383",
+        "Longitude": "-87.704518739",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853112",
+        "Latitude": "41.895748419",
+        "Longitude": "-87.623536353",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852706",
+        "Latitude": "41.795403194",
+        "Longitude": "-87.659765887",
+        "Primary_Type": "CRIMINAL SEXUAL ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854850",
+        "Latitude": "41.903594161",
+        "Longitude": "-87.651613679",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853128",
+        "Latitude": "41.890057206",
+        "Longitude": "-87.628491342",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853070",
+        "Latitude": "41.90444226",
+        "Longitude": "-87.63293969",
+        "Primary_Type": "ARSON"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853270",
+        "Latitude": "41.895363905",
+        "Longitude": "-87.726390989",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852378",
+        "Latitude": "41.705887536",
+        "Longitude": "-87.720214826",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853198",
+        "Latitude": "41.777922956",
+        "Longitude": "-87.593014081",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854750",
+        "Latitude": "41.662132102",
+        "Longitude": "-87.556841281",
+        "Primary_Type": "SEX OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852892",
+        "Latitude": "41.656812238",
+        "Longitude": "-87.609622064",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853037",
+        "Latitude": "41.707756212",
+        "Longitude": "-87.580708771",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855105",
+        "Latitude": "41.883969722",
+        "Longitude": "-87.644191276",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853721",
+        "Latitude": "41.945910991",
+        "Longitude": "-87.655474824",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857159",
+        "Latitude": "41.872996793",
+        "Longitude": "-87.655012115",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853436",
+        "Latitude": "41.855333959",
+        "Longitude": "-87.647479364",
+        "Primary_Type": "CRIMINAL SEXUAL ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853261",
+        "Latitude": "41.882980737",
+        "Longitude": "-87.65693728",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852994",
+        "Latitude": "41.763935607",
+        "Longitude": "-87.590935306",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857621",
+        "Latitude": "41.909942193",
+        "Longitude": "-87.720874458",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852688",
+        "Latitude": "41.747485119",
+        "Longitude": "-87.613174263",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853466",
+        "Latitude": "41.925370776",
+        "Longitude": "-87.732923214",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852365",
+        "Latitude": "41.771113236",
+        "Longitude": "-87.722567122",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853105",
+        "Latitude": "41.751298479",
+        "Longitude": "-87.604277643",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853269",
+        "Latitude": "41.854797313",
+        "Longitude": "-87.707779087",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853089",
+        "Latitude": "41.981845169",
+        "Longitude": "-87.657135064",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852489",
+        "Latitude": "41.878034263",
+        "Longitude": "-87.721271021",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12858271",
+        "Latitude": "41.736069973",
+        "Longitude": "-87.702037135",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852418",
+        "Latitude": "41.849137532",
+        "Longitude": "-87.618249094",
+        "Primary_Type": "PUBLIC PEACE VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853355",
+        "Latitude": "41.847655605",
+        "Longitude": "-87.707569729",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853518",
+        "Latitude": "41.798952563",
+        "Longitude": "-87.598166899",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852463",
+        "Latitude": "41.884951567",
+        "Longitude": "-87.660754117",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852838",
+        "Latitude": "41.868219921",
+        "Longitude": "-87.664046556",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853311",
+        "Latitude": "41.7615124",
+        "Longitude": "-87.604220681",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853172",
+        "Latitude": "41.774941876",
+        "Longitude": "-87.781767514",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852822",
+        "Latitude": "41.761727276",
+        "Longitude": "-87.56764563",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852774",
+        "Latitude": "41.967029068",
+        "Longitude": "-87.720658903",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853907",
+        "Latitude": "41.744922417",
+        "Longitude": "-87.682723428",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853180",
+        "Latitude": "41.735876283",
+        "Longitude": "-87.715375504",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853534",
+        "Latitude": "41.884859157",
+        "Longitude": "-87.647450119",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853646",
+        "Latitude": "41.921233614",
+        "Longitude": "-87.735243836",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852973",
+        "Latitude": "41.77708549",
+        "Longitude": "-87.661713708",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852748",
+        "Latitude": "41.871732109",
+        "Longitude": "-87.71844893",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854001",
+        "Latitude": "41.91244802",
+        "Longitude": "-87.653165399",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853878",
+        "Latitude": "41.737402995",
+        "Longitude": "-87.587859147",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852830",
+        "Latitude": "41.737788313",
+        "Longitude": "-87.727602181",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853066",
+        "Latitude": "41.812135348",
+        "Longitude": "-87.622912251",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853956",
+        "Latitude": "41.934254172",
+        "Longitude": "-87.747867801",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853148",
+        "Latitude": "41.721627204",
+        "Longitude": "-87.624485177",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12857392",
+        "Latitude": "41.943703845",
+        "Longitude": "-87.70653217",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852729",
+        "Latitude": "41.748627316",
+        "Longitude": "-87.626969648",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852599",
+        "Latitude": "41.977143713",
+        "Longitude": "-87.80089326",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853296",
+        "Latitude": "41.87392628",
+        "Longitude": "-87.756287237",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853970",
+        "Latitude": "41.769177267",
+        "Longitude": "-87.623954615",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853354",
+        "Latitude": "41.830493118",
+        "Longitude": "-87.666153241",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853022",
+        "Latitude": "41.93743245",
+        "Longitude": "-87.649180491",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852896",
+        "Latitude": "41.808132886",
+        "Longitude": "-87.666172559",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852728",
+        "Latitude": "41.758419179",
+        "Longitude": "-87.574908938",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853078",
+        "Latitude": "41.738612619",
+        "Longitude": "-87.550223113",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852425",
+        "Latitude": "41.934612439",
+        "Longitude": "-87.71313736",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852946",
+        "Latitude": "41.892536041",
+        "Longitude": "-87.723556644",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852501",
+        "Latitude": "41.901917604",
+        "Longitude": "-87.765648428",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853059",
+        "Latitude": "41.72462788",
+        "Longitude": "-87.637240497",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853298",
+        "Latitude": "41.965972307",
+        "Longitude": "-87.648731817",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852760",
+        "Latitude": "41.883255958",
+        "Longitude": "-87.734691097",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853476",
+        "Latitude": "41.922805175",
+        "Longitude": "-87.714365104",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853340",
+        "Latitude": "41.998915651",
+        "Longitude": "-87.67727301",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852676",
+        "Latitude": "41.904388038",
+        "Longitude": "-87.721937752",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853060",
+        "Latitude": "41.924228431",
+        "Longitude": "-87.747117979",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853474",
+        "Latitude": "41.844514992",
+        "Longitude": "-87.705343247",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852966",
+        "Latitude": "41.996886211",
+        "Longitude": "-87.688635592",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854432",
+        "Latitude": "41.7960115",
+        "Longitude": "-87.703627606",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853074",
+        "Latitude": "41.743480332",
+        "Longitude": "-87.553754964",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853103",
+        "Latitude": "41.930022549",
+        "Longitude": "-87.636320176",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852901",
+        "Latitude": "41.763449213",
+        "Longitude": "-87.715023036",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854439",
+        "Latitude": "41.904354995",
+        "Longitude": "-87.66385664",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853073",
+        "Latitude": "41.877822179",
+        "Longitude": "-87.655181405",
+        "Primary_Type": "OFFENSE INVOLVING CHILDREN"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852497",
+        "Latitude": "41.884545685",
+        "Longitude": "-87.737315805",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852526",
+        "Latitude": "41.819436667",
+        "Longitude": "-87.610405947",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853110",
+        "Latitude": "41.724396001",
+        "Longitude": "-87.659105028",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853847",
+        "Latitude": "41.77107478",
+        "Longitude": "-87.619717969",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853700",
+        "Latitude": "41.782594026",
+        "Longitude": "-87.704011894",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853031",
+        "Latitude": "41.940854345",
+        "Longitude": "-87.656564896",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852682",
+        "Latitude": "41.779671509",
+        "Longitude": "-87.65022937",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853387",
+        "Latitude": "41.892610989",
+        "Longitude": "-87.619428169",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852988",
+        "Latitude": "41.742201403",
+        "Longitude": "-87.720400808",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854801",
+        "Latitude": "41.884521087",
+        "Longitude": "-87.622099893",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853573",
+        "Latitude": "41.787713011",
+        "Longitude": "-87.642550042",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856015",
+        "Latitude": "41.819697049",
+        "Longitude": "-87.623111162",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852583",
+        "Latitude": "41.852251214",
+        "Longitude": "-87.670691482",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852828",
+        "Latitude": "41.948707142",
+        "Longitude": "-87.646666855",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853207",
+        "Latitude": "42.008612529",
+        "Longitude": "-87.661899888",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853616",
+        "Latitude": "41.753061804",
+        "Longitude": "-87.665936895",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853555",
+        "Latitude": "41.748977541",
+        "Longitude": "-87.574719585",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856374",
+        "Latitude": "41.685340153",
+        "Longitude": "-87.7201134",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852522",
+        "Latitude": "41.813146996",
+        "Longitude": "-87.633480333",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852934",
+        "Latitude": "41.923672617",
+        "Longitude": "-87.786301606",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852428",
+        "Latitude": "41.943122315",
+        "Longitude": "-87.649365938",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854609",
+        "Latitude": "41.926943028",
+        "Longitude": "-87.650854357",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853281",
+        "Latitude": "41.891060468",
+        "Longitude": "-87.768803952",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852549",
+        "Latitude": "41.840616343",
+        "Longitude": "-87.626630447",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853122",
+        "Latitude": "41.756330319",
+        "Longitude": "-87.552716204",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852493",
+        "Latitude": "41.900777218",
+        "Longitude": "-87.730354622",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853464",
+        "Latitude": "41.86989973",
+        "Longitude": "-87.718594993",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853071",
+        "Latitude": "42.01627583",
+        "Longitude": "-87.687516133",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852958",
+        "Latitude": "41.746223328",
+        "Longitude": "-87.570321699",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852772",
+        "Latitude": "41.965140878",
+        "Longitude": "-87.687580557",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852387",
+        "Latitude": "41.864250161",
+        "Longitude": "-87.731711202",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853026",
+        "Latitude": "41.921791324",
+        "Longitude": "-87.650258876",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853450",
+        "Latitude": "41.855861742",
+        "Longitude": "-87.716339815",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852803",
+        "Latitude": "42.013927223",
+        "Longitude": "-87.665056437",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853343",
+        "Latitude": "41.76796286",
+        "Longitude": "-87.620177677",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852977",
+        "Latitude": "41.76437735",
+        "Longitude": "-87.638299199",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853130",
+        "Latitude": "41.974184283",
+        "Longitude": "-87.657756697",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852654",
+        "Latitude": "41.662132102",
+        "Longitude": "-87.556841281",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853588",
+        "Latitude": "41.986186619",
+        "Longitude": "-87.656691879",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853751",
+        "Latitude": "41.875082745",
+        "Longitude": "-87.672482527",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853195",
+        "Latitude": "41.881348623",
+        "Longitude": "-87.674525788",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853007",
+        "Latitude": "41.874715981",
+        "Longitude": "-87.676477533",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12856559",
+        "Latitude": "41.828762287",
+        "Longitude": "-87.614436164",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852923",
+        "Latitude": "41.979006297",
+        "Longitude": "-87.906463155",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12855294",
+        "Latitude": "41.922452979",
+        "Longitude": "-87.690226905",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12854402",
+        "Latitude": "41.735857166",
+        "Longitude": "-87.624152861",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12853258",
+        "Latitude": "41.895510081",
+        "Longitude": "-87.640680744",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-08",
+        "ID": "12852689",
+        "Latitude": "42.012198435",
+        "Longitude": "-87.693971068",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854535",
+        "Latitude": "41.985322251",
+        "Longitude": "-87.669865064",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854128",
+        "Latitude": "41.747738529",
+        "Longitude": "-87.558888754",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853729",
+        "Latitude": "41.799213245",
+        "Longitude": "-87.622581891",
+        "Primary_Type": "OFFENSE INVOLVING CHILDREN"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853648",
+        "Latitude": "41.890961404",
+        "Longitude": "-87.622476522",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853554",
+        "Latitude": "41.793531036",
+        "Longitude": "-87.70269476",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854855",
+        "Latitude": "41.931417509",
+        "Longitude": "-87.755078443",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854240",
+        "Latitude": "41.78144942",
+        "Longitude": "-87.652938342",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854151",
+        "Latitude": "41.779807528",
+        "Longitude": "-87.765989758",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853916",
+        "Latitude": "41.91025859",
+        "Longitude": "-87.732454998",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854549",
+        "Latitude": "41.861476693",
+        "Longitude": "-87.718936322",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853523",
+        "Latitude": "41.755919476",
+        "Longitude": "-87.608986178",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854133",
+        "Latitude": "41.711417947",
+        "Longitude": "-87.650249296",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12855466",
+        "Latitude": "41.752252137",
+        "Longitude": "-87.619798226",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853881",
+        "Latitude": "41.702737032",
+        "Longitude": "-87.535974085",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854434",
+        "Latitude": "41.881348623",
+        "Longitude": "-87.674525788",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854108",
+        "Latitude": "41.796275711",
+        "Longitude": "-87.676802366",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853473",
+        "Latitude": "41.84800718",
+        "Longitude": "-87.679543894",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12860830",
+        "Latitude": "41.911138218",
+        "Longitude": "-87.689682872",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12861261",
+        "Latitude": "41.824933076",
+        "Longitude": "-87.623104662",
+        "Primary_Type": "SEX OFFENSE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12861169",
+        "Latitude": "41.799385731",
+        "Longitude": "-87.603263402",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854186",
+        "Latitude": "41.882007036",
+        "Longitude": "-87.694896069",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12859608",
+        "Latitude": "41.976762981",
+        "Longitude": "-87.900983721",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12861155",
+        "Latitude": "42.010775648",
+        "Longitude": "-87.674332577",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12861170",
+        "Latitude": "41.864958112",
+        "Longitude": "-87.625775047",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12860780",
+        "Latitude": "41.917940019",
+        "Longitude": "-87.690948283",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12860355",
+        "Latitude": "41.696156447",
+        "Longitude": "-87.629283351",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854930",
+        "Latitude": "41.887835876",
+        "Longitude": "-87.681716067",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12859885",
+        "Latitude": "41.848164109",
+        "Longitude": "-87.678187969",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12861320",
+        "Latitude": "41.90345329",
+        "Longitude": "-87.761006296",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12856003",
+        "Latitude": "41.81421223",
+        "Longitude": "-87.619727208",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12856222",
+        "Latitude": "41.800422106",
+        "Longitude": "-87.596664752",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854527",
+        "Latitude": "41.880362084",
+        "Longitude": "-87.755847438",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853863",
+        "Latitude": "41.779618399",
+        "Longitude": "-87.653767961",
+        "Primary_Type": "NARCOTICS"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12857339",
+        "Latitude": "41.890384236",
+        "Longitude": "-87.624109917",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854115",
+        "Latitude": "41.721840277",
+        "Longitude": "-87.617244627",
+        "Primary_Type": "CRIMINAL TRESPASS"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853671",
+        "Latitude": "41.783944066",
+        "Longitude": "-87.683770059",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854587",
+        "Latitude": "41.888993399",
+        "Longitude": "-87.770908193",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854201",
+        "Latitude": "41.904547043",
+        "Longitude": "-87.718310495",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12855487",
+        "Latitude": "41.911896686",
+        "Longitude": "-87.763087466",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853485",
+        "Latitude": "41.876351148",
+        "Longitude": "-87.666880865",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853396",
+        "Latitude": "41.808630416",
+        "Longitude": "-87.663012912",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854092",
+        "Latitude": "41.808728227",
+        "Longitude": "-87.613856907",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12856239",
+        "Latitude": "41.946076436",
+        "Longitude": "-87.655609079",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853981",
+        "Latitude": "41.865596457",
+        "Longitude": "-87.706862476",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853862",
+        "Latitude": "41.953885576",
+        "Longitude": "-87.65453007",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853454",
+        "Latitude": "41.880920946",
+        "Longitude": "-87.671735684",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12855106",
+        "Latitude": "41.903524264",
+        "Longitude": "-87.628670177",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853520",
+        "Latitude": "41.723267549",
+        "Longitude": "-87.536808254",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854924",
+        "Latitude": "41.897652325",
+        "Longitude": "-87.619456504",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853841",
+        "Latitude": "41.738848773",
+        "Longitude": "-87.577704072",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854148",
+        "Latitude": "41.693284513",
+        "Longitude": "-87.667265522",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854546",
+        "Latitude": "41.885742471",
+        "Longitude": "-87.631498734",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854137",
+        "Latitude": "41.876724763",
+        "Longitude": "-87.694474971",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854429",
+        "Latitude": "41.734897656",
+        "Longitude": "-87.631916024",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854253",
+        "Latitude": "41.885675573",
+        "Longitude": "-87.646761991",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12855974",
+        "Latitude": "42.005413813",
+        "Longitude": "-87.818803909",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853642",
+        "Latitude": "41.798996492",
+        "Longitude": "-87.670796641",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853872",
+        "Latitude": "41.920856462",
+        "Longitude": "-87.637614128",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853653",
+        "Latitude": "41.908430535",
+        "Longitude": "-87.638509526",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854417",
+        "Latitude": "41.76337364",
+        "Longitude": "-87.597000723",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12857362",
+        "Latitude": "41.903304304",
+        "Longitude": "-87.670064675",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853511",
+        "Latitude": "41.749566316",
+        "Longitude": "-87.561347741",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854442",
+        "Latitude": "41.879121968",
+        "Longitude": "-87.65315906",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854136",
+        "Latitude": "41.900863211",
+        "Longitude": "-87.72428922",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854708",
+        "Latitude": "41.888993831",
+        "Longitude": "-87.770996332",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854389",
+        "Latitude": "41.957969231",
+        "Longitude": "-87.652721986",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853549",
+        "Latitude": "41.814489708",
+        "Longitude": "-87.604478527",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853606",
+        "Latitude": "41.800509767",
+        "Longitude": "-87.685436557",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853510",
+        "Latitude": "41.846952594",
+        "Longitude": "-87.682303608",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853725",
+        "Latitude": "41.905285836",
+        "Longitude": "-87.732417138",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854395",
+        "Latitude": "41.885016125",
+        "Longitude": "-87.730704826",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853593",
+        "Latitude": "41.940606365",
+        "Longitude": "-87.750430376",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12855978",
+        "Latitude": "41.875771927",
+        "Longitude": "-87.730406133",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853800",
+        "Latitude": "41.770295896",
+        "Longitude": "-87.620239816",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854935",
+        "Latitude": "41.877769199",
+        "Longitude": "-87.658299456",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854691",
+        "Latitude": "41.880990522",
+        "Longitude": "-87.70463737",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853905",
+        "Latitude": "41.870366594",
+        "Longitude": "-87.627488753",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853633",
+        "Latitude": "41.785816624",
+        "Longitude": "-87.734450732",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853358",
+        "Latitude": "41.843916158",
+        "Longitude": "-87.706240919",
+        "Primary_Type": "OFFENSE INVOLVING CHILDREN"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12857663",
+        "Latitude": "41.936335635",
+        "Longitude": "-87.650710119",
+        "Primary_Type": "CRIMINAL SEXUAL ASSAULT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853330",
+        "Latitude": "41.675762939",
+        "Longitude": "-87.658035191",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854318",
+        "Latitude": "41.975862946",
+        "Longitude": "-87.83911785",
+        "Primary_Type": "CRIMINAL SEXUAL ASSAULT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853428",
+        "Latitude": "41.89131578",
+        "Longitude": "-87.617676009",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853546",
+        "Latitude": "41.890372359",
+        "Longitude": "-87.763389126",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853735",
+        "Latitude": "41.877880379",
+        "Longitude": "-87.73371679",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853949",
+        "Latitude": "41.997659945",
+        "Longitude": "-87.694009931",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853382",
+        "Latitude": "41.895003278",
+        "Longitude": "-87.62152816",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854034",
+        "Latitude": "41.866977138",
+        "Longitude": "-87.622544036",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854255",
+        "Latitude": "41.785590707",
+        "Longitude": "-87.621709365",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853938",
+        "Latitude": "41.941666345",
+        "Longitude": "-87.702788286",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853640",
+        "Latitude": "41.885191719",
+        "Longitude": "-87.624486846",
+        "Primary_Type": "DECEPTIVE PRACTICE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854161",
+        "Latitude": "41.798569683",
+        "Longitude": "-87.743533609",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853923",
+        "Latitude": "41.65454047",
+        "Longitude": "-87.596748665",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853302",
+        "Latitude": "41.717416303",
+        "Longitude": "-87.617663684",
+        "Primary_Type": "OTHER OFFENSE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853580",
+        "Latitude": "41.763008906",
+        "Longitude": "-87.654060543",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853592",
+        "Latitude": "41.953443229",
+        "Longitude": "-87.744934991",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854103",
+        "Latitude": "41.721299582",
+        "Longitude": "-87.618997895",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853412",
+        "Latitude": "41.923613437",
+        "Longitude": "-87.793511665",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853528",
+        "Latitude": "42.006715735",
+        "Longitude": "-87.664624166",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854196",
+        "Latitude": "41.795190552",
+        "Longitude": "-87.588007653",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853525",
+        "Latitude": "41.865397377",
+        "Longitude": "-87.640660777",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854552",
+        "Latitude": "41.774231967",
+        "Longitude": "-87.770067888",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12857400",
+        "Latitude": "41.869749161",
+        "Longitude": "-87.640107132",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854159",
+        "Latitude": "41.748442688",
+        "Longitude": "-87.614896904",
+        "Primary_Type": "WEAPONS VIOLATION"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853641",
+        "Latitude": "41.9428416",
+        "Longitude": "-87.729991535",
+        "Primary_Type": "BURGLARY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853666",
+        "Latitude": "41.866436555",
+        "Longitude": "-87.702415658",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854357",
+        "Latitude": "41.893601764",
+        "Longitude": "-87.674543124",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854063",
+        "Latitude": "41.933415931",
+        "Longitude": "-87.804145774",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853727",
+        "Latitude": "41.898646452",
+        "Longitude": "-87.749228991",
+        "Primary_Type": "ROBBERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853891",
+        "Latitude": "41.840885439",
+        "Longitude": "-87.659534989",
+        "Primary_Type": "STALKING"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12856045",
+        "Latitude": "41.851642372",
+        "Longitude": "-87.666017927",
+        "Primary_Type": "ASSAULT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853500",
+        "Latitude": "41.890948116",
+        "Longitude": "-87.70641282",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853937",
+        "Latitude": "41.893179585",
+        "Longitude": "-87.634686145",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12859232",
+        "Latitude": "41.775528244",
+        "Longitude": "-87.647109478",
+        "Primary_Type": "THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853377",
+        "Latitude": "41.880217478",
+        "Longitude": "-87.6899235",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853432",
+        "Latitude": "41.884431496",
+        "Longitude": "-87.663800268",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12853828",
+        "Latitude": "41.987275648",
+        "Longitude": "-87.711445742",
+        "Primary_Type": "BATTERY"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854375",
+        "Latitude": "41.884963062",
+        "Longitude": "-87.758905492",
+        "Primary_Type": "MOTOR VEHICLE THEFT"
+    },
+    {
+        "Date": "2022-10-09",
+        "ID": "12854512",
+        "Latitude": "41.884249819",
+        "Longitude": "-87.763917274",
+        "Primary_Type": "CRIMINAL DAMAGE"
+    }
+
+]

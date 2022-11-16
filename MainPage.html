@@ -1,0 +1,213 @@
+<!--Please insert you API key in the script before and of the body-->
+<html>
+
+<head>
+  <!--Link Jquery and other api used -->
+  <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+    integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+  <script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
+  <!--Link local and api style sheet -->
+  <link rel="stylesheet" type="text/css" href="./css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!--The title and icon of the website -->
+  <title>Crime In Chicago</title>
+  <link rel="icon" href="/img/CICicon.png">
+</head>
+
+<body>
+
+  <!--Welcome section-->
+  <header>
+    <section id="header">
+      <div class="container">
+        <!--title animation -->
+        <div class="title">
+          <h2><span class="first animate-pop-in">Crime</span>
+            <span class="second animate-pop-in">In</span>
+            <span class="third  animate-pop-in color">Chicago</span>
+            <br>
+            <br>
+            <span class="third animate-pop-in"><img src="img/CICicon.png" height="200px"></span>
+          </h2><br></br>
+          <h3 class="forth animate-pop-in">Discover the Crime in Chicago for your stay</h3>
+          <div class="animate-pop-in fifth">
+            <div class="button">
+              <a href="#about"><span>Find out more</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--The navigation bar -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Crime In Chicago</a>
+        </div>
+        <div>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#about">About us</a></li>
+            <li><a href="#Map"> Map</a></li>
+          </ul>
+          </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <!--Section: About Page Section-->
+  <section id="about">
+    <div class="container">
+      <ul class="breadcrumb">
+        <li><a href="#about">About us</a></li>
+      </ul>
+      <br>
+      <div class="text-center heading-title">
+        <h2 class="text-uppercase"> About Crime In Chicago</h2>
+      </div>
+      <br>
+      <div class="AboutInfo">
+        <div class="row">
+          <div class="three col">
+            <blockquote>
+              <h3>The background</h3>
+              <p>The city of Chicago, Illinois is a world-famous tourist destination
+                that attracts millions of tourists per year, yet it has one of the
+                highest levels of crime in the country.</p>
+              <p>As tourist interest in the city rises up again after the pandemic
+                while its crime rates continue to soar, more and more people will be interested to find out
+                how to keep themselves safe while visiting one of America's most crime-ridden cities.
+              </p>
+            </blockquote>
+
+          </div>
+          <div class="three col">
+            <blockquote>
+              <h3>Our Mission</h3>
+              <p>How can we help visitors to Chicago make better, more informed decisions about their safety and
+                wellbeing?</p>
+              As renting an Airbnb is one of the most convenient and affordable options available to travellers,
+              this website displays the distribution of Airbnbs across the city along with
+              the location-based crime data of Chicago from the previous month over an interactive map.</p>
+              <p>With the map functionalities we provide, visitors can cross reference both sets of data
+                to understand the overall safety and risk levels of the city
+                and determine an optimal location to stay in upon their visit.</p>
+            </blockquote>
+
+
+          </div>
+          <div class="three col">
+            <blockquote>
+              <h3>Our Database</h3>
+              <p>The data we will use is going to be collected from <a href="https://data.cityofchicago.org/">Chicago
+                  Data Portal</a>,
+                which is The City of Chicago's open data portal.
+                The website is managed by the City of Chicago - Information Technology government department to ensure
+                the authority of the data. </p>
+            </blockquote>
+
+          </div>
+        </div>
+      </div>
+
+      <!--Scroll Botton-->
+      <a href="#Map">
+        <div class="scroll-down"></div>
+      </a>
+    </div>
+  </section>
+
+  <!--Section: Map page Section-->
+  <section id="Map">
+    <div class="container">
+      <!--Section: Navigations-->
+      <ul class="breadcrumb">
+        <li><a href="#about">About us</a></li>
+        <li><a href="#Map">Map</a></li>
+      </ul>
+      <!-- Map Container-->
+      <div class="container mt-4">
+        <!--Section: Chicago map-->
+        <div class="card">
+          <!--Card content-->
+          <div class="card-body text-center">
+            <h3 class="font-bold mb-3"><strong>Discover the crime data and Airbnb!</strong></h3>
+            <!--Google map-->
+            <div id="map-container" class="z-depth-1" style="height: 600px; width: 800px; margin-left: 10%;"></div>
+          </div>
+          <!--/.Card content-->
+        </div>
+      </div>
+
+      <div class="container">
+        <h2>Let's modify this map</h2>
+      </div>
+      <div id="Tab" class="container">
+        <ul class="nav nav-pills">
+          <li class="active">
+            <a href="#filter" data-toggle="tab">Crime Type Filter</a>
+          </li>
+          <li>
+            <a href="#AirbnbHeat" data-toggle="tab">Airbnb Heatmap</a>
+          </li>
+          </li>
+        </ul>
+
+        <div class="tab-content">
+          <div class="tab-pane active" id="filter">
+            <p1>Crime Type Filter:</p1>
+            <p1>Please press 'clear' after each selection!!</p1>
+            <div id="buttons">
+
+              <input type="checkbox" name="o-filter" id="o-filter" class='chk-btn'>
+              <label for='o-filter'>Offense</label>
+
+              <input type="checkbox" name="b-filter" id="b-filter" class='chk-btn'>
+              <label for='b-filter'>Battery</label>
+
+              <input type="checkbox" name="as-filter" id="as-filter" class='chk-btn'>
+              <label for='as-filter'>Assault</label>
+
+              <input type="checkbox" name="t-filter" id="t-filter" class='chk-btn'>
+              <label for='t-filter'>Theft</label>
+
+              <input type="checkbox" name="a-filter" id="a-filter" class='chk-btn'>
+              <label for='a-filter'>All</label>
+
+              <input type="checkbox" name="cl-filter" id="cl-filter" class='chk-btn'>
+              <label for='cl-filter'>Clear</label>
+            </div>
+          </div>
+
+          <div class="tab-pane" id="AirbnbHeat">
+            <p1>Discover Airbnb Heatmap:</p1>
+            <div id="buttons">
+              <button class="btn" id="toggle-heatmap">Open Heatmap</button>
+              <button class="btn" id="change-gradient">Change gradient</button>
+              <button class="btn" id="change-radius">Change radius</button>
+              <button class="btn" id="change-opacity">Change opacity</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+  <!--Link google map, bootstrap and other api used -->
+  <script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <!--Replace with Your API Key -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=Your_API_key&callback=initMap&libraries=visualization&v=weekly"
+    defer></script>
+  <!--Link local js file used -->
+  <script type="text/javascript" src="./js/script.js"></script>
+</body>
+
+</html>
